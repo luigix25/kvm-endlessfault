@@ -58,7 +58,10 @@ to get the content of some low level registers (not listed with the standard reg
 This project is developed by\
 Antonio Le Caldare (kvm skeleton code, gdbstub, keyboard emulation, elf execution)\
 Vincent Della Corte (video card text-mode emulation, code polish, comment review)\
-Vincenzo Consales (elf loader, bootloader code, custom memory debug server)
+Vincenzo Consales (elf loader, bootloader code, custom memory debug server)\
+Luigi Leonardi (PCI-ATA Bridge, PCI Host, integrated interrupts in keyboard)\
+Filippo Storniolo (emulated Hard-Disk interface, APIC and interrupts integration)\
+Matteo Suffredini (physical Hard-Disk)
 
 as a project for Virtualization university course (prof. [@giuseppelettieri]( https://github.com/giuseppelettieri )).
 
